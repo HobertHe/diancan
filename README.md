@@ -1,3 +1,6 @@
+# 讲解视频
+https://study.163.com/course/courseMain.htm?courseId=1209428915
+
 > 今天来给大家讲解一个完整的微信小程序点餐项目。java后台+微信小程序实现点餐系统。
 
 # 后台技术选型：
@@ -111,7 +114,8 @@ mysql的安装就不在细讲了，百度下，网上一大堆安装mysql的文�
 ### 我后面会录制一套完整的视频来教大家如何快速的开发点餐系统。敬请期待。。。。
 
 
-
+# 讲解视频
+https://study.163.com/course/courseMain.htm?courseId=1209428915
 
 
 
